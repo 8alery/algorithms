@@ -1,0 +1,3 @@
+/home/valery/CLionProjects/processor_parallel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/valery/CLionProjects/processor_parallel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/valery/CLionProjects/processor_parallel/cmake-build-debug/CMakeFiles/processor_parallel.dir

@@ -1,0 +1,3 @@
+/home/valery/CLionProjects/split_sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/valery/CLionProjects/split_sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/valery/CLionProjects/split_sum/cmake-build-debug/CMakeFiles/split_sum.dir

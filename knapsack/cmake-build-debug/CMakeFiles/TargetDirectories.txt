@@ -1,0 +1,3 @@
+/home/valery/CLionProjects/knapsack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/valery/CLionProjects/knapsack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/valery/CLionProjects/knapsack/cmake-build-debug/CMakeFiles/knapsack.dir

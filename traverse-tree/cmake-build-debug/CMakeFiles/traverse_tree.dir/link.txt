@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/traverse_tree.dir/main.cpp.o  -o traverse_tree 

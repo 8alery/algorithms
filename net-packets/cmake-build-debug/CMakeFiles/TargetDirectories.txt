@@ -1,0 +1,3 @@
+/home/valery/CLionProjects/net-packets/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/valery/CLionProjects/net-packets/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/valery/CLionProjects/net-packets/cmake-build-debug/CMakeFiles/net_packets.dir

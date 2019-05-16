@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cover_segments_with_points.dir/main.cpp.o  -o cover_segments_with_points 

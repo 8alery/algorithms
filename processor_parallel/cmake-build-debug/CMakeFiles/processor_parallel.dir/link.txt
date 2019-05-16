@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/processor_parallel.dir/main.cpp.o  -o processor_parallel 

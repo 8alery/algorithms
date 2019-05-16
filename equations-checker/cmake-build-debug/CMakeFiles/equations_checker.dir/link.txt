@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/equations_checker.dir/main.cpp.o  -o equations_checker 

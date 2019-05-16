@@ -1,0 +1,3 @@
+/home/valery/CLionProjects/euclid_divider/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/valery/CLionProjects/euclid_divider/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/valery/CLionProjects/euclid_divider/cmake-build-debug/CMakeFiles/euclid_divider.dir

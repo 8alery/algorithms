@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/valery/CLionProjects/euclid_divider/main.cpp
+cassert
+-
+cstdint
+-
+iostream
+-
+cmath
+-
+vector
+-
+algorithm
+-
+
