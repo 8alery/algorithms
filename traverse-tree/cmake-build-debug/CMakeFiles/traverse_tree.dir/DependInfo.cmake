@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/valery/CLionProjects/traverse-tree/main.cpp" "/home/valery/CLionProjects/traverse-tree/cmake-build-debug/CMakeFiles/traverse_tree.dir/main.cpp.o"
+  "/home/valery/CLionProjects/algorithms/traverse-tree/main.cpp" "/home/valery/CLionProjects/algorithms/traverse-tree/cmake-build-debug/CMakeFiles/traverse_tree.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -6,15 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/valery/CLionProjects/huffman_code/main.cpp
+/home/valery/CLionProjects/algorithms/huffman_code/main.cpp
 iostream
 -
-string
--
-unordered_map
--
-queue
--
-memory
+vector
 -
 

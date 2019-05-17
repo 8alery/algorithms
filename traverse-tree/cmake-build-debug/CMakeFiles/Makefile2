@@ -54,10 +54,10 @@ RM = /opt/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/valery/CLionProjects/traverse-tree
+CMAKE_SOURCE_DIR = /home/valery/CLionProjects/algorithms/traverse-tree
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/valery/CLionProjects/traverse-tree/cmake-build-debug
+CMAKE_BINARY_DIR = /home/valery/CLionProjects/algorithms/traverse-tree/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/traverse_tree.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /home/valery/CLionProjects/traverse-tree/cmake-build-debug
 CMakeFiles/traverse_tree.dir/all:
 	$(MAKE) -f CMakeFiles/traverse_tree.dir/build.make CMakeFiles/traverse_tree.dir/depend
 	$(MAKE) -f CMakeFiles/traverse_tree.dir/build.make CMakeFiles/traverse_tree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/valery/CLionProjects/traverse-tree/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target traverse_tree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/valery/CLionProjects/algorithms/traverse-tree/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target traverse_tree"
 .PHONY : CMakeFiles/traverse_tree.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/traverse_tree.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/traverse_tree.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/valery/CLionProjects/traverse-tree/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/valery/CLionProjects/algorithms/traverse-tree/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/traverse_tree.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/valery/CLionProjects/traverse-tree/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/valery/CLionProjects/algorithms/traverse-tree/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/traverse_tree.dir/rule
 
 # Convenience name for target.
