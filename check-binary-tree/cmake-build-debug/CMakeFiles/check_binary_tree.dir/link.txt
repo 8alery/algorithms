@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 /usr/bin/c++  -g   CMakeFiles/check_binary_tree.dir/main.cpp.o  -o check_binary_tree 
+=======
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/check_binary_tree.dir/main.cpp.o  -o check_binary_tree 
+>>>>>>> 58b5ed2558a83df7a2e2768cd2768bf1456162fd

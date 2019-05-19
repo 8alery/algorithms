@@ -8,6 +8,7 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
+<<<<<<< HEAD
 				<Option working_dir="/home/valery/CLionProjects/algorithms/check-binary-tree/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
@@ -40,10 +41,45 @@
 			<Target title="check_binary_tree">
 				<Option output="/home/valery/CLionProjects/algorithms/check-binary-tree/cmake-build-debug/check_binary_tree" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/valery/CLionProjects/algorithms/check-binary-tree/cmake-build-debug"/>
+=======
+				<Option working_dir="/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check_binary_tree">
+				<Option output="/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/check_binary_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug"/>
+>>>>>>> 58b5ed2558a83df7a2e2768cd2768bf1456162fd
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+<<<<<<< HEAD
 					<Add directory="/usr/include/c++/5"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
 					<Add directory="/usr/include/c++/5/backward"/>
@@ -63,10 +99,31 @@
 			<Target title="check_binary_tree/fast">
 				<Option output="/home/valery/CLionProjects/algorithms/check-binary-tree/cmake-build-debug/check_binary_tree" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/valery/CLionProjects/algorithms/check-binary-tree/cmake-build-debug"/>
+=======
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 check_binary_tree"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check_binary_tree/fast">
+				<Option output="/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/check_binary_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug"/>
+>>>>>>> 58b5ed2558a83df7a2e2768cd2768bf1456162fd
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+<<<<<<< HEAD
 					<Add directory="/usr/include/c++/5"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
 					<Add directory="/usr/include/c++/5/backward"/>
@@ -88,6 +145,28 @@
 			<Option target="check_binary_tree"/>
 		</Unit>
 		<Unit filename="/home/valery/CLionProjects/algorithms/check-binary-tree/CMakeLists.txt">
+=======
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 check_binary_tree/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/valery/LearningProjects/algorithms/check-binary-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/valery/LearningProjects/algorithms/check-binary-tree/main.cpp">
+			<Option target="check_binary_tree"/>
+		</Unit>
+		<Unit filename="/Users/valery/LearningProjects/algorithms/check-binary-tree/CMakeLists.txt">
+>>>>>>> 58b5ed2558a83df7a2e2768cd2768bf1456162fd
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

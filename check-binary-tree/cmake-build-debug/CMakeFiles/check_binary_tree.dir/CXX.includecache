@@ -6,9 +6,18 @@
 
 #IncludeRegexTransform: 
 
+<<<<<<< HEAD
 /home/valery/CLionProjects/algorithms/check-binary-tree/main.cpp
+=======
+/Users/valery/LearningProjects/algorithms/check-binary-tree/main.cpp
+>>>>>>> 58b5ed2558a83df7a2e2768cd2768bf1456162fd
 iostream
 -
 vector
 -
+<<<<<<< HEAD
+=======
+stack
+-
+>>>>>>> 58b5ed2558a83df7a2e2768cd2768bf1456162fd
 
