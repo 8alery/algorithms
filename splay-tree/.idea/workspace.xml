@@ -12,12 +12,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6296bd05-3e28-4190-88ae-12e9177f8d48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../set-with-sum/.idea/set-with-sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../set-with-sum/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check-binary-tree/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/3.10.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/3.10.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../traverse-tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../traverse-tree/cmake-build-debug/CMakeFiles/traverse_tree.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../traverse-tree/cmake-build-debug/CMakeFiles/traverse_tree.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../traverse-tree/cmake-build-debug/traverse_tree" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../check-binary-tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/check_binary_tree.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/check_binary_tree.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/check_binary_tree.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/check_binary_tree.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/check_binary_tree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/check_binary_tree.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/check_binary_tree.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/check_binary_tree.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/check_binary_tree.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/check_binary_tree.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/check_binary_tree.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/check_binary_tree.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/check_binary_tree.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/check_binary_tree.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/check_binary_tree" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/check_binary_tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/check_binary_tree.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/check_binary_tree.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../check-binary-tree/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../check-binary-tree/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../traverse-tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../traverse-tree/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="123" column="12" selection-start-line="123" selection-start-column="12" selection-end-line="123" selection-end-column="12" />
+            <state relative-caret-position="-105">
+              <caret line="137" column="45" lean-forward="true" selection-start-line="137" selection-start-column="45" selection-end-line="137" selection-end-column="45" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -88,6 +119,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -121,12 +153,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558257471522</updated>
-      <workItem from="1558257473283" duration="2145000" />
+      <workItem from="1558257473283" duration="2889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2145000" />
+    <option name="totallyTimeSpent" value="2889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="63" width="1400" height="800" extended-state="0" />
@@ -162,8 +194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="123" column="12" selection-start-line="123" selection-start-column="12" selection-end-line="123" selection-end-column="12" />
+        <state relative-caret-position="-105">
+          <caret line="137" column="45" lean-forward="true" selection-start-line="137" selection-start-column="45" selection-end-line="137" selection-end-column="45" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

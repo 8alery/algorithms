@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/valery/LearningProjects/algorithms/check-binary-tree/main.cpp
+/home/valery/CLionProjects/algorithms/traverse-tree/main.cpp
 iostream
 -
 vector
--
-stack
 -
 
