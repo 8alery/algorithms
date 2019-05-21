@@ -21,6 +21,11 @@ bool traverse_tree(Node &node){
             current = stack.top();
             stack.pop();
 
+            if (current->left && current->key == current->left->key){
+                correct = false;
+                break;
+            }
+
             if (current->key < previous){
                 correct = false;
                 break;
